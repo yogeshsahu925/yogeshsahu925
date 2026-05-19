@@ -1,5 +1,3 @@
-# Hi! I'm Yogesh<br>
-
 # 💫 About Me:
 💻 CS undergraduate passionate about technology, coding, and problem-solving  <br>🚀 Exploring AI, cybersecurity, and full-stack development  <br>🌱 Currently learning DSA, cloud, and modern web technologies  <br>🤝 Open to collaborating on innovative projects and hackathons  <br>⚡ Turning ideas into real-world solutions through code
 
